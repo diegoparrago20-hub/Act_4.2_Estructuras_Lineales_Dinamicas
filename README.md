@@ -38,7 +38,7 @@ Validación de los datos ingresados.
 
 Interfaz gráfica para facilitar el uso del sistema.
 
-#Estructura del proyecto
+# Estructura del proyecto
 El proyecto está organizado mediante clases que permiten administrar los diferentes tipos de publicaciones:
 
 Trabajo: clase principal con los atributos generales.
